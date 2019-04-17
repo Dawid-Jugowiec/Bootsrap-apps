@@ -1,2 +1,2 @@
-# Bootsrap-apps
+# Bootstrap-apps
 Simple apps created with bootstrap
